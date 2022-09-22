@@ -1,0 +1,2 @@
+# GoodMnze.github.io
+MnzeInfo
